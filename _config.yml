@@ -3,4 +3,4 @@ theme: jekyll-theme-time-machine
 name: JIA's Web
 markdown: kramdown
 
-permalink: /blog/:year/:month/:day/:title
+permalink: https://cornmoon-blue.github.io/jia.github.io/blog/:year/:month/:day/:title
